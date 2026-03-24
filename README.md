@@ -32,3 +32,4 @@ Modern ve kullanıcı dostu bir not alma uygulamasıdır. Kullanıcıların fiki
 - 🌙 Temiz ve minimalist kullanıcı arayüzü
 - 📊 Toplam not sayısı ve filtrelenmiş not sayısı gösterimi
 - 🔄 Real-time filtreleme ve arama
+
